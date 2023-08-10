@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bimo Adi BRamantto</h1>
+<h1 align="center">Hi 👋, I'm Bimo Adi Bramantto</h1>
 <h3 align="center">A UI/UX Designer and Front-End Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimoadibramantyo&label=Profile%20views&color=0e75b6&style=flat" alt="bimoadibramantyo" /> </p>
